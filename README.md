@@ -1,7 +1,7 @@
 # Hangman
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+##Prototipo de juego del ahorcado, la palabra a resolver es aleatoria y se obtiene del servidor node del proyecto <b>randomWords</b>
+##La palabra tiene una longitud entre 4 y 10 caracteres
 
 ## Prerequisites
 
